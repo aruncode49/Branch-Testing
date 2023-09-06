@@ -1,1 +1,1 @@
-console.log("Lesson -1");
+console.log("Hello");
